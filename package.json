@@ -1,0 +1,13 @@
+{
+  "name": "ENSFeeChecker",
+  "version": "1.0.0",
+  "private": true,
+  "devDependencies": {
+    "aws-sdk": "2.631.0"
+  },
+  "dependencies": {
+    "colors": "^1.4.0",
+    "google-spreadsheet": "^3.1.15",
+    "puppeteer": "^10.4.0"
+  }
+}
